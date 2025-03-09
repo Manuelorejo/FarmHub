@@ -1,0 +1,6 @@
+@Farm_Hub_HostAddress = http://localhost:5156
+
+GET {{Farm_Hub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
